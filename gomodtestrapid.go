@@ -9,5 +9,9 @@ func main() {
 }
 
 func Hello() {
-	fmt.Println("Rapid Hello - v1")
+	fmt.Println("Rapid Hello - v2")
+}
+
+func SuperHello() {
+	fmt.Println("Rapid Super Hello ")
 }
