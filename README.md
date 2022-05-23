@@ -1,2 +1,1 @@
-# gomodtestrapid
-go module test 2
+# Sample go mod versions test
